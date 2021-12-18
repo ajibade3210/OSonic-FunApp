@@ -1,0 +1,89 @@
+section#subscribe {
+    background-image:linear-gradient(rgba(0, 0, 0, 0.8),rgba(0, 0, 0, 0.8)) , url(../../assets/bgsonic.webp);
+    text-align: center;
+    color: orangered;
+    background-size: cover;
+    /* background-attachment: fixed; */
+    opacity: .9;
+  }
+
+  .subscribe h2 {
+    font-size: 3.5rem;
+    font-weight: 500;
+    line-height: 1.4;
+    text-transform: uppercase;
+    margin: 1.5rem 0;
+    padding-bottom: 1rem;
+  }
+
+  form > * {
+    width: 100%;
+    max-width: 50rem;
+    margin: 3rem auto;
+  }
+  
+  form input {
+    padding: 1rem;
+    background: transparent;
+    border: 2px solid orangered;
+    border-radius: 5px 0 0 5px;
+    color:  var(--color-white);
+    outline: none;
+    width: 80%;
+    font-size: 1.6rem;
+  }
+
+  ::placeholder {
+    color: var(--color-white);
+    opacity: 1; /* Firefox */
+  }
+
+  :-ms-input-placeholder { /* Internet Explorer 10-11 */
+    color: var(--color-white);
+   }
+   
+   ::-ms-input-placeholder { /* Microsoft Edge */
+    color: var(--color-white);
+   }
+
+  form button {
+    padding: 1rem;
+    background:  #030338;
+    border: 3px solid #030338;
+    border-radius: 0 5px 5px 0;
+    color: #fff;
+    font-size: 1.6rem;
+    font-weight: 500;
+    cursor: pointer;
+  }
+  
+  .social-icons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .social-icon {
+    margin: 2rem;
+    padding: 1rem;
+    width: 4rem;
+    height: 4rem;
+    border: 3px solid var(--dark-blue);;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    cursor: pointer;
+    transition: all 0.2s;
+  }
+  
+  .social-icon:hover {
+    background: var(--light-blue);
+  }
+  
+  @media screen and (max-width: 600px) {
+    form input {
+      width: 60%;
+    }
+  }
