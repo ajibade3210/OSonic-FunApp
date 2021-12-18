@@ -1,6 +1,9 @@
-A Sonic Game Fun App Using React Library.
-SonicX site is just a trial site created by a big fan of Sonic's, The goal is to explore React js and catch fun while at it.
+A Sonic Game Fun App Using React Library.\
+SonicX site is just a trial site created by a big fan of Sonic's, The goal is to explore React js and catch fun while at it.\
 [Check it out](http://localhost:3000)
+
+![OSonic](https://i.imgur.com/WufxTvr.png)
+
 
 In the project directory, you can run:
 ### `npm start`
