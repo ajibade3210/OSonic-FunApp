@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/OSonic-FunApp/static/css/main.efc703ec.chunk.css",
+    "main.js": "/OSonic-FunApp/static/js/main.e169f9d6.chunk.js",
+    "main.js.map": "/OSonic-FunApp/static/js/main.e169f9d6.chunk.js.map",
+    "runtime-main.js": "/OSonic-FunApp/static/js/runtime-main.2475d53f.js",
+    "runtime-main.js.map": "/OSonic-FunApp/static/js/runtime-main.2475d53f.js.map",
+    "static/css/2.30fbed10.chunk.css": "/OSonic-FunApp/static/css/2.30fbed10.chunk.css",
+    "static/js/2.7ce27c36.chunk.js": "/OSonic-FunApp/static/js/2.7ce27c36.chunk.js",
+    "static/js/2.7ce27c36.chunk.js.map": "/OSonic-FunApp/static/js/2.7ce27c36.chunk.js.map",
+    "index.html": "/OSonic-FunApp/index.html",
+    "static/css/2.30fbed10.chunk.css.map": "/OSonic-FunApp/static/css/2.30fbed10.chunk.css.map",
+    "static/css/main.efc703ec.chunk.css.map": "/OSonic-FunApp/static/css/main.efc703ec.chunk.css.map",
+    "static/js/2.7ce27c36.chunk.js.LICENSE.txt": "/OSonic-FunApp/static/js/2.7ce27c36.chunk.js.LICENSE.txt",
+    "static/media/subscribe.css": "/OSonic-FunApp/static/media/bgsonic.b29edfa9.webp",
+    "static/media/citysonic.7b1775e8.png": "/OSonic-FunApp/static/media/citysonic.7b1775e8.png",
+    "static/media/ringsonic.f3c847ce.png": "/OSonic-FunApp/static/media/ringsonic.f3c847ce.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2475d53f.js",
+    "static/css/2.30fbed10.chunk.css",
+    "static/js/2.7ce27c36.chunk.js",
+    "static/css/main.efc703ec.chunk.css",
+    "static/js/main.e169f9d6.chunk.js"
+  ]
+}
